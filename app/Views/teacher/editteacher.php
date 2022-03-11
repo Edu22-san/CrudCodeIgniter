@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Codeigniter Crud tutorial on code-source.tempurl.host</title>
+  <title>Edit Teacher</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
    <style> .container {
