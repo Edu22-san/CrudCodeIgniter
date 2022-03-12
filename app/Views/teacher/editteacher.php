@@ -3,7 +3,7 @@
 
 <head>
   <title>Edit Teacher</title>
-<!-- Latest compiled and minified CSS -->
+
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
    <style> .container {
       max-width: 500px;

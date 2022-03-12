@@ -9,9 +9,7 @@ class Teacher extends BaseController{
             'teacher'=> $model->paginate(4),
             'pager'=> $model->pager
         ];
-
         return view('teacher/viewteacher',$data);
-       
     }
     public function create(){
        // $model =model(TeacherModel::class);
